@@ -1,2 +1,2 @@
 # edunexa
-Edunexa data science tasks
+Edunexa data science tasks.
